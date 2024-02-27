@@ -2,7 +2,12 @@
 
 ---
 
-- 🌱 I’m currently learning Github!
+- 🌱 I’m currently learning:
+- ➕ Github!
+- ➕ Javascript
+- ➕ Node.js
+
+![Vitor Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vgsmith&show_icons=true&theme=radical)
 
 ---
 
